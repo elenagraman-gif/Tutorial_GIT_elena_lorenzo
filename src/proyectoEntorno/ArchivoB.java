@@ -33,4 +33,7 @@ public class ArchivoB {
 	public static void funcionI() {
 		System.out.println("Funcion I");
 	}
+	public static void funcionJ() {
+		System.out.println("Funcion J");
+	}
 }
