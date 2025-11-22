@@ -9,5 +9,8 @@ public class archivoF {
 	public static void funcionAF() {
 		System.out.println("Funcion AF");
 	}
+	public static void funcionBF() {
+		System.out.println("Funcion BF");
+	}
 
 }
