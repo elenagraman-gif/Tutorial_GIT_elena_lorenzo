@@ -14,4 +14,8 @@ public class archivoE {
 	public static void funcion2E() {
 		System.out.println("Función 2 archivo E");
 	}
+	
+	public static void funcion3E() {
+		System.out.println("Función 3 archivo E");
+	}
 }
