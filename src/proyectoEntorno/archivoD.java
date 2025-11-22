@@ -9,5 +9,8 @@ public class archivoD {
 	public static void funcionAD () {
 		System.out.println("Funcion AD");
 	}
+	public static void funcionBD () {
+		System.out.println("Funcion BD");
+	}
 
 }
