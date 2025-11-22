@@ -9,4 +9,7 @@ public class ArchivoB {
 	public static void funcionA() {
 		System.out.println("Funcion A");
 	}
+	public static void funcionB() {
+		System.out.println("Funcion B");
+	}
 }
