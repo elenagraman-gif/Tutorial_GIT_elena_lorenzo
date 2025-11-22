@@ -12,4 +12,7 @@ public class ArchivoB {
 	public static void funcionB() {
 		System.out.println("Funcion B");
 	}
+	public static void funcionC() {
+		System.out.println("Funcion C");
+	}
 }
