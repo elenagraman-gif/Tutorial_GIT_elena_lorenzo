@@ -21,4 +21,22 @@ public class ArchivoB {
 	public static void funcionE() {
 		System.out.println("Funcion E");
 	}
+	public static void funcionF() {
+		System.out.println("Funcion f");
+	}
+	public static void funcionG() {
+		System.out.println("Funcion g");
+	}
+	public static void funcionH() {
+		System.out.println("Funcion H");
+	}
+	public static void funcionI() {
+		System.out.println("Funcion I");
+	}
+	public static void funcionJ() {
+		System.out.println("Funcion J");
+	}
+	public static void funcionK() {
+		System.out.println("Funcion K");
+	}
 }
