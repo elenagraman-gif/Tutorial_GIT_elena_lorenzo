@@ -30,4 +30,8 @@ public class archivoA {
 	public static void funcion6() {
 		System.out.println("Función 6");
 	}
+	
+	public static void funcion7() {
+		System.out.println("Función 7");
+	}
 }
