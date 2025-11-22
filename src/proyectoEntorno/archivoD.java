@@ -12,5 +12,8 @@ public class archivoD {
 	public static void funcionBD () {
 		System.out.println("Funcion BD");
 	}
+	public static void funcionCD () {
+		System.out.println("Funcion CD");
+	}
 
 }
