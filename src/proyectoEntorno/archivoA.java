@@ -39,5 +39,7 @@ public class archivoA {
 		System.out.println("Función 8");
 	}
 	
-	
+	public static void funcion9() {
+		System.out.println("Función 9");
+	}
 }
