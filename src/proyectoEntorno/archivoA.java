@@ -18,4 +18,8 @@ public class archivoA {
 	public static void funcion3() {
 		System.out.println("Función 3");
 	}
+	
+	public static void funcion4() {
+		System.out.println("Función 4");
+	}
 }
