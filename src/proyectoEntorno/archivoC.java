@@ -10,4 +10,8 @@ public class archivoC {
 	public static void funcion1C() {
 		System.out.println("Función 1 archivo C");
 	}
+	
+	public static void funcion2C() {
+		System.out.println("Función 2 archivo C");
+	}
 }
