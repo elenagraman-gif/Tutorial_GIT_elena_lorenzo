@@ -24,4 +24,7 @@ public class ArchivoB {
 	public static void funcionf() {
 		System.out.println("Funcion f");
 	}
+	public static void funciong() {
+		System.out.println("Funcion g");
+	}
 }
